@@ -5,14 +5,14 @@
 
 - 🌱 I’m currently learning **JAVA,FRONT-END,BACK-END**
 
-- 💬 Ask me about **C,JAVA,C++ and PYTHON**
+- 💬 Ask me about **JAVA,C,C++ and PYTHON**
 
 - 📫 How to reach me **aritrarouth1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aritra-routh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aritra-routh/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aritrarouthabphysics/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aritrarouthabphysics/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aritra-routh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritra-routh/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aritrarouthabphysics/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aritrarouthabphysics/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
